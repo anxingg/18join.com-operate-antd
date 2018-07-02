@@ -1,0 +1,14 @@
+:global(.resizing-iframe-container){
+  display: flex;
+  flex: 1;
+  min-height: 100%;
+  overflow: auto;
+  -webkit-overflow-scrolling:touch;
+}
+
+:global(.resizing-iframe-container  .resizing-iframe){
+  display: flex;
+  flex: 1;
+  border: 0;
+  min-height: 100%;
+}

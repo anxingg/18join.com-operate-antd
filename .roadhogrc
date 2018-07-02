@@ -1,0 +1,30 @@
+{
+  "entry": "src/index.js",
+   "disableCSSModules": false,
+  "publicPath": "/",
+  "autoprefixer": null,
+ "proxy": {
+	  "/api": {
+		"target": "http://bl.test.18join.com/",
+		"changeOrigin": true,
+		"pathRewrite": { "^/api" : "" }
+	  }
+ },
+	"extraBabelPlugins": [
+    "transform-runtime",
+    ["import", { "libraryName": "antd", "style": true }]
+	],
+  "env": {
+    "development": {
+      "extraBabelPlugins": [
+        "dva-hmr",
+        "transform-runtime"
+      ]
+    },
+    "production": {
+      "extraBabelPlugins": [
+        "transform-runtime"
+      ]
+    }
+  }
+}

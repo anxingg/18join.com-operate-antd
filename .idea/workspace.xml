@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf80e07b-45ad-45a3-8e6d-6fc9380e205a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../t0loan_web/src/main/webapp/static/src/css/operate.css" beforeDir="false" afterPath="$PROJECT_DIR$/../t0loan_web/src/main/webapp/static/src/css/operate.css" afterDir="false" />
+    </list>
+    <ignored path="bl_web_interface.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bl_web_interface" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="develop" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/RepaymentRecord/RepaymentRecordSearch.js" />
+        <option value="$PROJECT_DIR$/src/routes/sl/RepaymentRecord.js" />
+        <option value="$PROJECT_DIR$/src/routes/sl/DetermineAmount.js" />
+        <option value="$PROJECT_DIR$/src/components/DetermineAmount/slapplyloanModal.js" />
+        <option value="$PROJECT_DIR$/src/services/sl/DetermineAmount.js" />
+        <option value="$PROJECT_DIR$/src/components/DetermineAmount/isList.js" />
+        <option value="$PROJECT_DIR$/src/components/SupplyChainLoan/list.js" />
+        <option value="$PROJECT_DIR$/src/models/sl/DetermineAmount.js" />
+        <option value="$PROJECT_DIR$/src/components/DetermineAmount/DetermineAmountSearch.js" />
+        <option value="$PROJECT_DIR$/src/models/sl/slschedule.js" />
+        <option value="$PROJECT_DIR$/src/services/sl/slloanrepayment.js" />
+        <option value="$PROJECT_DIR$/src/routes/sl/slloanrepayment.js" />
+        <option value="$PROJECT_DIR$/src/components/slloanrepayment/autoRefund.js" />
+        <option value="$PROJECT_DIR$/src/components/slloanrepayment/slloanrepaymentSearch.js" />
+        <option value="$PROJECT_DIR$/src/models/sl/slloanrepayment.js" />
+        <option value="$PROJECT_DIR$/src/models/sl/RepaymentRecord.js" />
+        <option value="$PROJECT_DIR$/src/components/RepaymentRecord/list.js" />
+        <option value="$PROJECT_DIR$/src/components/supplyChainStatement/financingList.js" />
+        <option value="$PROJECT_DIR$/src/components/supplyChainStatement/repaymentList.js" />
+        <option value="$PROJECT_DIR$/src/components/adjustedinterest/list.js" />
+        <option value="$PROJECT_DIR$/src/components/adjustedinterest/AdjustedinterestSearch.js" />
+        <option value="$PROJECT_DIR$/src/components/sldelayapply/sldelayapplySearch.js" />
+        <option value="$PROJECT_DIR$/src/components/slmanager/slmanager.less" />
+        <option value="$PROJECT_DIR$/src/components/slmanager/searchTable.js" />
+        <option value="$PROJECT_DIR$/src/components/paltformcheck/paltformcheckSearch.js" />
+        <option value="$PROJECT_DIR$/src/components/paltformcheck/paltformcheck.less" />
+        <option value="$PROJECT_DIR$/src/routes/dashboard.less" />
+        <option value="$PROJECT_DIR$/src/components/layout/common.less" />
+        <option value="$PROJECT_DIR$/src/components/paltformcheck/list.js" />
+        <option value="$PROJECT_DIR$/src/components/paltformcheck/BindFinaceaccountModal.js" />
+        <option value="$PROJECT_DIR$/node_modules/webpack/buildin/module.js" />
+        <option value="$PROJECT_DIR$/.roadhogrc" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/t+1/CreateFinanceAccountModal.js" />
+        <option value="$PROJECT_DIR$/src/components/t+1/RefuseFinanceAccountModal.js" />
+        <option value="$PROJECT_DIR$/src/services/df/t+1.js" />
+        <option value="$PROJECT_DIR$/src/models/df/t+1.js" />
+        <option value="$PROJECT_DIR$/src/routes/df/t+1.js" />
+        <option value="$PROJECT_DIR$/src/components/t+1/list.js" />
+        <option value="$PROJECT_DIR$/src/components/t+1/SetFinanceAccountModal.js" />
+        <option value="$PROJECT_DIR$/src/router.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/utils/menu.js" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/Todo.js" />
+        <option value="$PROJECT_DIR$/src/components/t1loanfirsttrial_szqh/creditLoanModal.js" />
+        <option value="$PROJECT_DIR$/src/components/t1loanfirsttrial_szqh/refuseLoanModal.js" />
+        <option value="$PROJECT_DIR$/src/services/df/t1loanfirsttrial_szqh.js" />
+        <option value="$PROJECT_DIR$/src/models/df/t1loanfirsttrial_szqh.js" />
+        <option value="$PROJECT_DIR$/src/components/t1loanfirsttrial_szqh/creditLoanBatch.js" />
+        <option value="$PROJECT_DIR$/src/routes/df/t1loanfirsttrial_szqh.js" />
+        <option value="$PROJECT_DIR$/src/components/t1loanfirsttrial_szqh/list.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="496" />
+    <option name="y" value="43" />
+    <option name="width" value="898" />
+    <option name="height" value="628" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bl_web_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bl_web_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bl_web_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bl_web_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bl_web_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bl_web_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bl_web_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bl_web_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="slloantransferdetails" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bl_web_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bl_web_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="supplyChainStatement" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="104" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="133" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="134" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="908" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="121" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="128" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="128" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="902" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="D:\repo\18join\ojoin_trade\bl_web_interface\node_modules\mocha" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface\src\models" />
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface\src\components\slloantransferdetails" />
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface\src\components\DetermineAmount" />
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface\src\components" />
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface\src\services\sl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface\src\components\t1loanfirsttrial_szqh" />
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface\src\services\df" />
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface\src\components\t+1" />
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface" />
+      <recent name="D:\repo\18join\ojoin_trade\bl_web_interface\src\components\layout" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bl_web_interface" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="Unnamed" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf80e07b-45ad-45a3-8e6d-6fc9380e205a" name="Default" comment="" />
+      <created>1491443401949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491443401949</updated>
+      <workItem from="1491443404703" duration="6327000" />
+      <workItem from="1491458127419" duration="3724000" />
+      <workItem from="1491462376238" duration="5190000" />
+      <workItem from="1491468324970" duration="4465000" />
+      <workItem from="1491528451639" duration="2998000" />
+      <workItem from="1491531676202" duration="440000" />
+      <workItem from="1491537064583" duration="3599000" />
+      <workItem from="1491554001938" duration="568000" />
+      <workItem from="1491788514633" duration="5965000" />
+      <workItem from="1491802853755" duration="9323000" />
+      <workItem from="1491874895518" duration="2201000" />
+      <workItem from="1491880396947" duration="196000" />
+      <workItem from="1491880859506" duration="5424000" />
+      <workItem from="1491896883000" duration="2989000" />
+      <workItem from="1491958882213" duration="13448000" />
+      <workItem from="1491989272606" duration="26000" />
+      <workItem from="1492046512953" duration="11265000" />
+      <workItem from="1492064871994" duration="646000" />
+      <workItem from="1492066368710" duration="24000" />
+      <workItem from="1492066507460" duration="3091000" />
+      <workItem from="1492131939128" duration="1658000" />
+      <workItem from="1492390954463" duration="1805000" />
+      <workItem from="1492477656608" duration="4322000" />
+      <workItem from="1492493181978" duration="7581000" />
+      <workItem from="1492508232141" duration="727000" />
+      <workItem from="1492564495426" duration="1508000" />
+      <workItem from="1492571137152" duration="84000" />
+      <workItem from="1492590821489" duration="739000" />
+      <workItem from="1492650103870" duration="8895000" />
+      <workItem from="1492677398418" duration="1073000" />
+      <workItem from="1492736552293" duration="3346000" />
+      <workItem from="1492753395198" duration="9802000" />
+      <workItem from="1492995812794" duration="7817000" />
+      <workItem from="1493004238861" duration="7393000" />
+      <workItem from="1493017736582" duration="6646000" />
+      <workItem from="1493082181319" duration="10741000" />
+      <workItem from="1493168444303" duration="620000" />
+      <workItem from="1493189119306" duration="2123000" />
+      <workItem from="1493199474112" duration="1056000" />
+      <workItem from="1493255743334" duration="2292000" />
+      <workItem from="1493365661573" duration="1799000" />
+      <workItem from="1493688658495" duration="607000" />
+      <workItem from="1493964736334" duration="2953000" />
+      <workItem from="1493970620253" duration="3272000" />
+      <workItem from="1494206545033" duration="11723000" />
+      <workItem from="1494228965850" duration="2402000" />
+      <workItem from="1494235256807" duration="1083000" />
+      <workItem from="1494292382806" duration="2709000" />
+      <workItem from="1494311015146" duration="4248000" />
+      <workItem from="1494378719570" duration="7317000" />
+      <workItem from="1494397485945" duration="753000" />
+      <workItem from="1494399316425" duration="9479000" />
+      <workItem from="1494465708792" duration="3917000" />
+      <workItem from="1494482700386" duration="11125000" />
+      <workItem from="1494495245332" duration="1924000" />
+      <workItem from="1494551458054" duration="10342000" />
+      <workItem from="1494896841610" duration="2432000" />
+      <workItem from="1494914074353" duration="2891000" />
+      <workItem from="1494922005967" duration="2806000" />
+      <workItem from="1494984530687" duration="6991000" />
+      <workItem from="1495006557986" duration="622000" />
+      <workItem from="1495011683422" duration="625000" />
+      <workItem from="1495070527788" duration="845000" />
+      <workItem from="1495087623380" duration="6982000" />
+      <workItem from="1495098277432" duration="3155000" />
+      <workItem from="1495160559086" duration="5189000" />
+      <workItem from="1495433957218" duration="3473000" />
+      <workItem from="1495502953938" duration="6827000" />
+      <workItem from="1495588973428" duration="10034000" />
+      <workItem from="1495613809478" duration="2020000" />
+      <workItem from="1495675425765" duration="17700000" />
+      <workItem from="1495761806027" duration="8923000" />
+      <workItem from="1495847665295" duration="174000" />
+      <workItem from="1495849501870" duration="1798000" />
+      <workItem from="1495873961443" duration="552000" />
+      <workItem from="1495874564514" duration="705000" />
+      <workItem from="1496277963162" duration="20113000" />
+      <workItem from="1496365620120" duration="6727000" />
+      <workItem from="1496375648255" duration="15395000" />
+      <workItem from="1496623776198" duration="21015000" />
+      <workItem from="1496653721123" duration="3447000" />
+      <workItem from="1496712180922" duration="14330000" />
+      <workItem from="1496797395631" duration="10606000" />
+      <workItem from="1496817479788" duration="3969000" />
+      <workItem from="1496883897701" duration="2312000" />
+      <workItem from="1496970368294" duration="9764000" />
+      <workItem from="1497229877135" duration="20428000" />
+      <workItem from="1497316774262" duration="11286000" />
+      <workItem from="1497402394887" duration="5797000" />
+      <workItem from="1498526420922" duration="212000" />
+      <workItem from="1498526725563" duration="4420000" />
+      <workItem from="1498549944126" duration="4608000" />
+      <workItem from="1498612944986" duration="17165000" />
+      <workItem from="1498638675468" duration="4327000" />
+      <workItem from="1498699043261" duration="24602000" />
+      <workItem from="1498785273262" duration="11656000" />
+      <workItem from="1498811267150" duration="3827000" />
+      <workItem from="1499131235565" duration="1547000" />
+      <workItem from="1499133768538" duration="1665000" />
+      <workItem from="1499136492503" duration="9216000" />
+      <workItem from="1499217233542" duration="4360000" />
+      <workItem from="1499239662253" duration="572000" />
+      <workItem from="1499302987310" duration="1770000" />
+      <workItem from="1499649070727" duration="3703000" />
+      <workItem from="1499653208963" duration="13860000" />
+      <workItem from="1499678189198" duration="358000" />
+      <workItem from="1499735976606" duration="2439000" />
+      <workItem from="1499738744932" duration="17015000" />
+      <workItem from="1499822522251" duration="16895000" />
+      <workItem from="1499848306394" duration="1760000" />
+      <workItem from="1499909472839" duration="21092000" />
+      <workItem from="1499995381543" duration="12904000" />
+      <workItem from="1500255795878" duration="5094000" />
+      <workItem from="1500341027685" duration="14670000" />
+      <workItem from="1500369483101" duration="2185000" />
+      <workItem from="1500427797006" duration="11612000" />
+      <workItem from="1500446506121" duration="11029000" />
+      <workItem from="1500514050452" duration="6228000" />
+      <workItem from="1500600323106" duration="9291000" />
+      <workItem from="1500626036806" duration="386000" />
+      <workItem from="1500626655867" duration="3380000" />
+      <workItem from="1500945276821" duration="8693000" />
+      <workItem from="1500961240807" duration="10552000" />
+      <workItem from="1500973923579" duration="2711000" />
+      <workItem from="1501032056551" duration="20713000" />
+      <workItem from="1501118539886" duration="14586000" />
+      <workItem from="1501204762028" duration="8141000" />
+      <workItem from="1501224082587" duration="5180000" />
+      <workItem from="1501230178836" duration="3018000" />
+      <workItem from="1501464348555" duration="18915000" />
+      <workItem from="1501549882601" duration="8028000" />
+      <workItem from="1501567504054" duration="6967000" />
+      <workItem from="1501576942238" duration="2769000" />
+      <workItem from="1501723149781" duration="17138000" />
+      <workItem from="1501810027981" duration="15982000" />
+      <workItem from="1501838401551" duration="684000" />
+      <workItem from="1502069627320" duration="8980000" />
+      <workItem from="1502085465339" duration="11962000" />
+      <workItem from="1502097890154" duration="5307000" />
+      <workItem from="1502154670281" duration="13306000" />
+      <workItem from="1502178410226" duration="5460000" />
+      <workItem from="1502241447469" duration="15899000" />
+      <workItem from="1502265125759" duration="8178000" />
+      <workItem from="1502278646165" duration="1931000" />
+      <workItem from="1502328210662" duration="537000" />
+      <workItem from="1502335506945" duration="2049000" />
+      <workItem from="1502344722507" duration="9117000" />
+      <workItem from="1502414352172" duration="1469000" />
+      <workItem from="1502416252502" duration="5281000" />
+      <workItem from="1502430654053" duration="12498000" />
+      <workItem from="1502760284463" duration="21971000" />
+      <workItem from="1502846458375" duration="23915000" />
+      <workItem from="1502934079116" duration="22943000" />
+      <workItem from="1503019119836" duration="22246000" />
+      <workItem from="1503278109210" duration="18041000" />
+      <workItem from="1503364622713" duration="23449000" />
+      <workItem from="1503451367163" duration="18946000" />
+      <workItem from="1503537526937" duration="29585000" />
+      <workItem from="1503623751428" duration="14969000" />
+      <workItem from="1503883874815" duration="15235000" />
+      <workItem from="1503970348927" duration="17650000" />
+      <workItem from="1504000739647" duration="179000" />
+      <workItem from="1504228382021" duration="24358000" />
+      <workItem from="1504487932099" duration="20996000" />
+      <workItem from="1504574489506" duration="3395000" />
+      <workItem from="1504578671359" duration="17106000" />
+      <workItem from="1504661444386" duration="59000" />
+      <workItem from="1504661554265" duration="16764000" />
+      <workItem from="1504746893197" duration="7271000" />
+      <workItem from="1504770359255" duration="2729000" />
+      <workItem from="1504833242138" duration="1913000" />
+      <workItem from="1504837969194" duration="5360000" />
+      <workItem from="1505179809143" duration="5593000" />
+      <workItem from="1505265818933" duration="2234000" />
+      <workItem from="1505352246208" duration="1346000" />
+      <workItem from="1505438547155" duration="30000" />
+      <workItem from="1505697914451" duration="323000" />
+      <workItem from="1505698338449" duration="1524000" />
+      <workItem from="1505804828149" duration="79000" />
+      <workItem from="1505870430770" duration="31000" />
+      <workItem from="1505870540804" duration="1170000" />
+      <workItem from="1505957336281" duration="1197000" />
+      <workItem from="1506043408785" duration="1190000" />
+      <workItem from="1506303241055" duration="2921000" />
+      <workItem from="1506389072175" duration="638000" />
+      <workItem from="1506475615337" duration="1232000" />
+      <workItem from="1506577925433" duration="821000" />
+      <workItem from="1506648268288" duration="1187000" />
+      <workItem from="1506735083490" duration="299000" />
+      <workItem from="1507517455344" duration="34000" />
+      <workItem from="1507685171719" duration="22000" />
+      <workItem from="1507687718973" duration="1323000" />
+      <workItem from="1507772714703" duration="1161000" />
+      <workItem from="1507773920920" duration="15979000" />
+      <workItem from="1507862418891" duration="60000" />
+      <workItem from="1507862856282" duration="157000" />
+      <workItem from="1507878939614" duration="4507000" />
+      <workItem from="1508118048671" duration="189000" />
+      <workItem from="1508467042055" duration="1717000" />
+      <workItem from="1508477844329" duration="65000" />
+      <workItem from="1508485567381" duration="914000" />
+      <workItem from="1508487390033" duration="1890000" />
+      <workItem from="1508722532092" duration="19279000" />
+      <workItem from="1508807059722" duration="15080000" />
+      <workItem from="1508899158751" duration="14361000" />
+      <workItem from="1509329399202" duration="11489000" />
+      <workItem from="1509413148536" duration="16111000" />
+      <workItem from="1509498453812" duration="143000" />
+      <workItem from="1511162024505" duration="3136000" />
+      <workItem from="1511229078269" duration="3776000" />
+      <workItem from="1511337869941" duration="100000" />
+      <workItem from="1511425731004" duration="23000" />
+      <workItem from="1511425837663" duration="597000" />
+      <workItem from="1511507237020" duration="644000" />
+      <workItem from="1511507922219" duration="14000" />
+      <workItem from="1514942692789" duration="1256000" />
+      <workItem from="1516688527586" duration="3022000" />
+      <workItem from="1516757831301" duration="646000" />
+      <workItem from="1516860918457" duration="647000" />
+      <workItem from="1517448697457" duration="1208000" />
+      <workItem from="1517536556508" duration="2858000" />
+      <workItem from="1517798023429" duration="1148000" />
+      <workItem from="1517899076448" duration="656000" />
+      <workItem from="1522390180147" duration="928000" />
+      <workItem from="1527821487669" duration="901000" />
+      <workItem from="1527836999980" duration="1835000" />
+      <workItem from="1528164613613" duration="2714000" />
+      <workItem from="1529026654141" duration="222000" />
+      <workItem from="1529026892379" duration="1000" />
+    </task>
+    <task id="LOCAL-00027" summary="add:手动还款完成   package.json - antd 升级版本 2.8.3&gt;2.10.4">
+      <created>1496729335867</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1496729335868</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add: less替换style">
+      <created>1496803841337</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1496803841337</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update:">
+      <created>1496805031965</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1496805031965</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update:抓取任务执行情况  初始表格 传参更改">
+      <created>1496816797237</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1496816797237</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add:new bl 供应链展期审核">
+      <created>1497337860529</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1497337860529</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update:url href router">
+      <created>1497408353285</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1497408353285</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update:success margin">
+      <created>1498528739385</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1498528739385</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update:autoComplete">
+      <created>1498613019638</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1498613019638</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add:动产融资登记">
+      <created>1499676694235</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1499676694235</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add:Input readonly">
+      <created>1499678543778</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1499678543778</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add:antd 暂停平台">
+      <created>1499838576551</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1499838576552</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add:antd 新增结算户">
+      <created>1499850056561</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1499850056561</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add:antd  绑定结算户">
+      <created>1499909991978</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1499909991978</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add:供应链电商平台抓取数据&amp;money100">
+      <created>1500012824697</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1500012824697</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add:update antd">
+      <created>1500012910414</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1500012910414</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add:update antd">
+      <created>1500013189381</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1500013189381</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add:download">
+      <created>1500015000603</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1500015000603</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add:antd 融资补录&amp;确认放款">
+      <created>1500538760987</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1500538760987</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add:antd 融资补录  当页合计">
+      <created>1500620171236</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1500620171236</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add:antd 还款补录">
+      <created>1501483896152</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1501483896152</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add:antd 调息">
+      <created>1501495949597</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1501495949597</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add:antd 调息修改">
+      <created>1501811991427</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1501811991427</updated>
+    </task>
+    <task id="LOCAL-00049" summary="add:new operate 财务对账 antd">
+      <created>1502160627028</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1502160627028</updated>
+    </task>
+    <task id="LOCAL-00050" summary="add:new operate 财务对账 download">
+      <created>1502173906215</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1502173906369</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add:new operate 转账待处理任务详情 antd">
+      <created>1502281820308</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1502281820354</updated>
+    </task>
+    <task id="LOCAL-00052" summary="add:new operate 融资余额日报 antd">
+      <created>1502437976362</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1502437976393</updated>
+    </task>
+    <task id="LOCAL-00053" summary="add:new operate 风控信息监控 antd">
+      <created>1502443329947</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1502443329947</updated>
+    </task>
+    <task id="LOCAL-00054" summary="add:new operate 合同续签审核(不包含保理合同续签) antd">
+      <created>1502781623953</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1502781624035</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add:new operate 保理合同审核antd">
+      <created>1502961182533</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1502961182554</updated>
+    </task>
+    <task id="LOCAL-00056" summary="add:list loading">
+      <created>1502963094744</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1502963094745</updated>
+    </task>
+    <task id="LOCAL-00057" summary="add:new oeprate 供应链贷展期审核详情  antd">
+      <created>1503047289877</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1503047289905</updated>
+    </task>
+    <task id="LOCAL-00058" summary="add:new operate 供应链展期审核查看 antd">
+      <created>1503304647252</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1503304647305</updated>
+    </task>
+    <task id="LOCAL-00059" summary="add:new operate 供应链贷授信管理-修改授信 antd">
+      <created>1503584345505</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1503584345505</updated>
+    </task>
+    <task id="LOCAL-00060" summary="add:new operate 供应链贷授信管理-修改授信 antd">
+      <created>1503627201201</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1503627201215</updated>
+    </task>
+    <task id="LOCAL-00061" summary="update: bindAlipay">
+      <created>1503632223762</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1503632223762</updated>
+    </task>
+    <task id="LOCAL-00062" summary="add:components DatePicker">
+      <created>1503907096598</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1503907096598</updated>
+    </task>
+    <task id="LOCAL-00063" summary="add:融资补录 - 确认放款(当日判重金额&amp;融资日期)">
+      <created>1504592494644</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1504592494661</updated>
+    </task>
+    <task id="LOCAL-00064" summary="add:还款补录 - 确认放款(当日判重金额&amp;融资日期)">
+      <created>1504604397254</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1504604397254</updated>
+    </task>
+    <task id="LOCAL-00065" summary="update:antd table marge">
+      <created>1504677813296</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1504677813296</updated>
+    </task>
+    <task id="LOCAL-00066" summary="update:antd table style layout">
+      <created>1504683265526</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1504683265526</updated>
+    </task>
+    <task id="LOCAL-00067" summary="update:antd menu  bug auto overflow-y">
+      <created>1504685134102</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1504685134102</updated>
+    </task>
+    <task id="LOCAL-00068" summary="update:antd bindFinaceaccount">
+      <created>1504687769208</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1504687769209</updated>
+    </task>
+    <task id="LOCAL-00069" summary="update:antd bindFinaceaccount">
+      <created>1504688120002</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1504688120002</updated>
+    </task>
+    <task id="LOCAL-00070" summary="add:antd t+1 垫付业务申请审核">
+      <created>1507802185008</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1507802185056</updated>
+    </task>
+    <task id="LOCAL-00071" summary="add:antd t+1 垫付业务申请审核  loading">
+      <created>1507802270711</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1507802270711</updated>
+    </task>
+    <task id="LOCAL-00072" summary="add:antd t+1 垫付业务申请审核  list rowKey">
+      <created>1507802439475</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1507802439475</updated>
+    </task>
+    <task id="LOCAL-00073" summary="add:antd t+1 垫付业务-申请审核">
+      <created>1508915472053</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1508915472053</updated>
+    </task>
+    <task id="LOCAL-00074" summary="add:antd t+1 垫付业务-申请审核 - modal">
+      <created>1509346100364</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1509346100364</updated>
+    </task>
+    <task id="LOCAL-00075" summary="add:antd 垫付业务放款初审(深圳前海) 审核&amp;通过">
+      <created>1509498527300</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1509498527302</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1439330000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.41571194" visible="true" weight="0.2737921" />
+      <window_info anchor="bottom" id="TODO" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.3207856" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.32242227" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.3207856" />
+      <window_info id="Structure" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="1" sideWeight="0.58428806" side_tool="true" weight="0.3184569" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="0" weight="0.32753405" />
+      <window_info anchor="right" id="Designer" order="0" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32843137" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3289689" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.22314675" />
+      <window_info id="Structure" order="4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.3290469" />
+      <window_info anchor="bottom" id="TODO" order="0" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="right" id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Palette&#9;" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="5" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info anchor="bottom" id="Messages" order="6" />
+      <window_info id="Favorites" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add:new operate 财务对账 antd" />
+    <MESSAGE value="add:new operate 财务对账 download" />
+    <MESSAGE value="add:new operate 转账待处理任务详情 antd" />
+    <MESSAGE value="add:new operate 融资余额日报 antd" />
+    <MESSAGE value="add:new operate 风控信息监控 antd" />
+    <MESSAGE value="add:new operate 合同续签审核(不包含保理合同续签) antd" />
+    <MESSAGE value="add:new operate 保理合同审核antd" />
+    <MESSAGE value="add:list loading" />
+    <MESSAGE value="add:new oeprate 供应链贷展期审核详情  antd" />
+    <MESSAGE value="add:new operate 供应链展期审核查看 antd" />
+    <MESSAGE value="add:new operate 供应链贷授信管理-修改授信 antd" />
+    <MESSAGE value="update: bindAlipay" />
+    <MESSAGE value="add:components DatePicker" />
+    <MESSAGE value="add:融资补录 - 确认放款(当日判重金额&amp;融资日期)" />
+    <MESSAGE value="add:还款补录 - 确认放款(当日判重金额&amp;融资日期)" />
+    <MESSAGE value="update:antd table marge" />
+    <MESSAGE value="update:antd table style layout" />
+    <MESSAGE value="update:antd menu  bug auto overflow-y" />
+    <MESSAGE value="update:antd bindFinaceaccount" />
+    <MESSAGE value="add:antd t+1 垫付业务申请审核" />
+    <MESSAGE value="add:antd t+1 垫付业务申请审核  loading" />
+    <MESSAGE value="add:antd t+1 垫付业务申请审核  list rowKey" />
+    <MESSAGE value="add:antd t+1 垫付业务-申请审核" />
+    <MESSAGE value="add:antd t+1 垫付业务-申请审核 - modal" />
+    <MESSAGE value="add:antd 垫付业务放款初审(深圳前海) 审核&amp;通过" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:antd 垫付业务放款初审(深圳前海) 审核&amp;通过" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/services/sl/contractReviewAuditTwo.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/contractreviewMonitor.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/DetermineAmount.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/paltformcheck.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/t1loanfirsttrial_szqh/refuseLoanModal.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/df/t1loanfirsttrial_szqh.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/t1loanfirsttrial_szqh/creditLoanBatch.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/df/t+1.js" />
+    <entry file="file://$PROJECT_DIR$/src/models/sl/adjustedinterest.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/adjustedinterest/list.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/sl/adjustedinterest.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/df/t1loanfirsttrial_szqh.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/roadhog/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/roadhog/lib/utils/applyWebpackConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/roadhog/src/config/webpack.config.prod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3597" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/roadhog/src/config/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="103" column="25" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/adjustedinterest/changeInterest.js" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/components/t1loanfirsttrial_szqh/creditLoanModal.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/t1loanfirsttrial_szqh/list.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/t+1/list.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/t+1/SetFinanceAccountModal.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/supplyChainStatement/transactionDate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/supplyChainStatement/supplyChainStatementSearch.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/supplyChainStatement/repaymentList.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/supplyChainStatement/financingList.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/SupplyChainLoan/SupplyChainLoanSearch.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/slschedule/list.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/slrepayment/TransferBasicModal.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/slrepayment/searchRepayment.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/slrepayment/manualPartRefundModal.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/lib/date-picker/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="70" column="14" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/menu.js" />
+    <entry file="file://$PROJECT_DIR$/src/utils/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/slplatform/slplatformContent.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/slplatform/unBindAlipay.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/slrepayment/calculatefeeByMhtnoModal.js" />
+    <entry file="file://$PROJECT_DIR$/src/models/sl/sldelayapply.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/sldelayapply/list.js" />
+    <entry file="file://$PROJECT_DIR$/src/routes/sl/sldelayapply.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/sldelayapply/sldelayapplySearch.js" />
+    <entry file="file://$PROJECT_DIR$/.roadhogrc" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/balanceDaily.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/contractRenewAudit.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/contractReviewAuditTwo.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/contractreviewMonitor.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/DetermineAmount.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/slcatchdata.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/paltformcheck.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/sl/adjustedinterest.js" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bl_web_interface</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bl_web_interface node_modules</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
